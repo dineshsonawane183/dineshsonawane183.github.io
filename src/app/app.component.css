@@ -1,0 +1,35 @@
+.navbar-expand-lg {
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+.navbar{
+    background-color: black;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color:white;
+    font-size: 20px;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    text-decoration: underline;
+}
+
+.ml-auto{
+    margin-left: auto;
+    font-weight: bold;
+}
+
+.navbar-brand h1{
+    color: rgb(143, 188, 188);
+    padding-left: 15px;
+    font-size: 30px
+}
+ 
+span{
+    color:red
+
+}
+
+
+
